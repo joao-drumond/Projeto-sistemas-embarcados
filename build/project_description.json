@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "main",
-    "project_version":    "a79e125-dirty",
+    "project_version":    "ab730ac-dirty",
     "project_path":       "C:/Users/Joao/Repositorios/sample_project",
     "idf_path":           "C:/Users/Joao/esp/v5.2.1/esp-idf",
     "build_dir":          "C:/Users/Joao/Repositorios/sample_project/build",
